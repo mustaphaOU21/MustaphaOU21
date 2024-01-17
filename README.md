@@ -1,6 +1,6 @@
 # Hallo, ik ben Mustapha! 👋
 
-Welkom op mijn GitHub-profiel! Ik ben een gepassioneerde softwareontwikkelaar met een fascinatie voor het bouwen van geweldige dingen met code. Mijn focus ligt voornamelijk op [vermeld hier jouw specialiteiten, bijv. webontwikkeling, AI, app-ontwikkeling, enzovoort].
+Welkom op mijn GitHub-profiel! Ik ben een gepassioneerde softwareontwikkelaar met een fascinatie voor het bouwen van geweldige dingen met code. Mijn focus ligt voornamelijk op: PHP, Larvel, JS, SQL.
 
 ## Over mij
 
